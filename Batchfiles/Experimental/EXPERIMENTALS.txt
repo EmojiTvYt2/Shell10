@@ -1,3 +1,0 @@
-File: Shell10_Beta1.1x
-Change: Creates Inbound rule instead of disabling Public Networks Protection in Firewall
-Testing: Unable to properly test.
